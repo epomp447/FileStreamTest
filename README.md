@@ -3,6 +3,10 @@ DNA constructs elements from input file "ecoloi.txt" into a formatted output fil
 
 
 
+
+    Example Output "DNA.txt":
+
+
 Region Name: thr operon leader peptide
 Nucleotides: ATGAAACGCATTAGCACCACCATTACCACCACCATCACCATTACCACAGGTAACGGTGCGGGCTGA
 Nuc Counts: [21,22,11,12] 
