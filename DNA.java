@@ -6,7 +6,7 @@
 *  Date: March 30, 2017
 *</p>
 *
-* @author Evan Pomponio
+* @author Evan P
 * 
 **/
 import java.lang.Math;         
